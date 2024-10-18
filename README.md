@@ -1,30 +1,24 @@
 ## This repository is a fork that includes a Gradio app for easy interaction. Follow these steps to set up and run the app on your local machine.
 
-1.
 ```
-create env --name janus python=3.10
+1. create env --name janus python=3.10
 ```
-3.
 ```
-conda activate janus
+2. conda activate janus
 ```
-5.
 ```
-install the right torch for your system https://pytorch.org/get-started/locally/ 
+3. install the right torch for your system https://pytorch.org/get-started/locally/ 
 ```
 for example: https://pytorch.org/get-started/locally/
 
-7.
 ```
-pip isntall -r requirements
+4. pip isntall -r requirements
 ```
-9.
 ```
-pip install flash-attn --no-build-isolation
+5. pip install flash-attn --no-build-isolation
 ```
-10.
 ```
-python Gradio_app.py
+6. python Gradio_app.py
 ```
 
 <!-- markdownlint-disable first-line-h1 -->
