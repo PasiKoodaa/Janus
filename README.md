@@ -20,6 +20,9 @@ for example: ```pip3 install torch torchvision torchaudio --index-url https://do
 ```
 The Flash-Attention installation can take tens of minutes.
 For more information about Flash-Attention installation problems, visit: https://github.com/Dao-AILab/flash-attention
+
+If you want to use the app without Flash-Attention, you need to edit the Janus config.json file. Replace _attn_implementation": "flash_attention_2" with _attn_implementation": "eager".
+HF models are usually downloaded to .cache/huggingface/hub.
 ```
 6. python Gradio_app.py
 ```
