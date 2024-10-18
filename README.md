@@ -18,7 +18,7 @@ for example: ```pip3 install torch torchvision torchaudio --index-url https://do
 ```
 5. pip install flash-attn --no-build-isolation
 ```
-The Flash-Attention installation can take tens of minutes.
+The Flash-Attention installation can take a significant amount of time, often ranging from tens of minutes to several hours, depending on your system configuration.
 For more information about Flash-Attention installation problems, visit: https://github.com/Dao-AILab/flash-attention
 
 If you want to use the app without Flash-Attention, you need to edit the Janus config.json file. Replace _attn_implementation": "flash_attention_2" with _attn_implementation": "eager".
