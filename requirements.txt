@@ -9,8 +9,8 @@ packaging
 ninja
 
 # for gradio demo
-gradio==3.48.0
-gradio-client==0.6.1
+gradio
+gradio-client
 # mdtex2html==1.3.0
 # pypinyin==0.50.0
 # tiktoken==0.5.2
