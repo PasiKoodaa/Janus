@@ -5,6 +5,7 @@ accelerate
 sentencepiece
 attrdict
 einops
+packaging
 ninja
 
 # for gradio demo
