@@ -9,7 +9,7 @@
 ```
 3. install the right torch for your system https://pytorch.org/get-started/locally/ 
 ```
-for example: pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+for example: 'pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124'
 
 ```
 4. pip isntall -r requirements
