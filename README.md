@@ -2,6 +2,11 @@
 
 ### I strongly suggest that you skip the Flash-Attention installation in Part 5. It took me 2 hours to try to install it, but it ultimately failed.
 
+![gradio_demo_photo](https://github.com/user-attachments/assets/d8a819c0-7a35-41f8-8121-eb5da7ddaba7)
+
+
+
+```
 1. create env --name janus python=3.10
 ```
 ```
