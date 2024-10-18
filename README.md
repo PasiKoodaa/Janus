@@ -7,7 +7,7 @@
 2. conda activate janus
 ```
 ```
-3. install the right torch for your system https://pytorch.org/get-started/locally/ 
+3. install the right pytorch for your system. flash-attn requires PyTorch 1.12 and above. https://pytorch.org/get-started/locally/ 
 ```
 for example: ```pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124```
 
