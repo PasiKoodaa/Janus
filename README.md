@@ -1,7 +1,7 @@
-### NOT READY, NOT WORKING YET
 ## This repository is a fork that includes a Gradio app for easy interaction. Follow these steps to set up and run the app on your local machine.
 
-```
+### I strongly suggest that you skip the Flash-Attention installation in Part 5. It took me 2 hours to try to install it, but it ultimately failed.
+
 1. create env --name janus python=3.10
 ```
 ```
