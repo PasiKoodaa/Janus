@@ -17,6 +17,7 @@ for example: ```pip3 install torch torchvision torchaudio --index-url https://do
 ```
 5. pip install flash-attn --no-build-isolation
 ```
+For more information about Flash-Attention installation problems, visit: https://github.com/Dao-AILab/flash-attention
 ```
 6. python Gradio_app.py
 ```
