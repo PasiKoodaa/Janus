@@ -12,7 +12,7 @@
 for example: ```pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124```
 
 ```
-4. pip isntall -r requirements
+4. pip install -r requirements.txt
 ```
 ```
 5. pip install flash-attn --no-build-isolation
